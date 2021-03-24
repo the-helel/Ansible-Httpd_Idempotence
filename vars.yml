@@ -1,0 +1,3 @@
+doc_root: "/var/www/parth"
+dvd_dir: "/dvd"
+http_port: 3032
